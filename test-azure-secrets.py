@@ -28,7 +28,7 @@ azure_functions = {
         "url": "https://fake-function.azurewebsites.net"
     }
 }
-
+client_secret = 'bP88Q~rcBcYjzzOhg1Hnn76Wm3jGgakZiZ.8vMgR'
 # Management Certificate
 MANAGEMENT_CERT = """MIICiTCCAfKgAwIBAgIQEXAMPLEFAKECERTIFICATEMSFTw="""
 
